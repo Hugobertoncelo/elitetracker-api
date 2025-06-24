@@ -8,7 +8,6 @@
   },
   "keywords": [
     "api",
-    "express",
     "typescript",
     "elite-tracker"
   ],
@@ -20,8 +19,5 @@
   "type": "commonjs",
   "devDependencies": {
     "typescript": "^5.8.3"
-  },
-  "dependencies": {
-    "express": "^5.1.0"
   }
 }
